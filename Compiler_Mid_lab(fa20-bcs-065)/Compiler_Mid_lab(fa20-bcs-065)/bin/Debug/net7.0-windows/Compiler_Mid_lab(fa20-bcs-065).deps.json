@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Compiler_Mid_lab(fa20-bcs-065)/1.0.0": {
+        "runtime": {
+          "Compiler_Mid_lab(fa20-bcs-065).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compiler_Mid_lab(fa20-bcs-065)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

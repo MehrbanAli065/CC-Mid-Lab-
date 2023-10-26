@@ -1,0 +1,17 @@
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\bin\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).exe
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\bin\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).deps.json
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\bin\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).runtimeconfig.json
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\bin\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).dll
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\bin\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).pdb
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab_fa20_bcs_065_.Form1.resources
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).csproj.GenerateResource.cache
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).AssemblyInfoInputs.cache
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).AssemblyInfo.cs
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).csproj.CoreCompileInputs.cache
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).dll
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\refint\Compiler_Mid_lab(fa20-bcs-065).dll
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).pdb
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab(fa20-bcs-065).genruntimeconfig.cache
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\ref\Compiler_Mid_lab(fa20-bcs-065).dll
+C:\Users\Mehrban Ali\source\repos\Compiler_Mid_lab(fa20-bcs-065)\Compiler_Mid_lab(fa20-bcs-065)\obj\Debug\net7.0-windows\Compiler_Mid_lab_fa20_bcs_065_.Form2.resources
